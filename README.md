@@ -1,6 +1,6 @@
-# The Spark Foundation
-## Task 3 - Payment Gateway Integration
-The Sparks Foundation Donation Website comprising of Payment Gateway Integration for Donating specific amount of money to the Foundation.
+
+# Donation page
+ Donation Website comprising of Payment Gateway Integration for Donating specific amount of money to the Foundation.
 - I have added payment gateway using Razorpay.
 ### To run the code
 - Clone the repository / download the zip files
